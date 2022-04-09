@@ -30,8 +30,5 @@
 
 微信：OTT996 
 
-<img src="D:\朱靖\Desktop\微信小号.jpg" alt="微信小号" style="zoom: 20%;" />
-
 电报：@K5168
 
-<img src="D:\朱靖\Desktop\电报.jpg" alt="电报" style="zoom:15%;" />
