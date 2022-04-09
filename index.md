@@ -29,9 +29,7 @@
 ### 有意者通过以下方式联系
 
 <img src="/IMG/wx.jpg?raw=true" alt="wx" style="zoom:25%;" />
-
 微信：OTT996 
 
 <img src="/IMG/tg.jpg?raw=true" alt="wx" style="zoom:25%;" />
-
 电报：@K5168
