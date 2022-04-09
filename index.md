@@ -26,7 +26,7 @@
 
 邀请链接：https://mxwljsq.com/auth/register?code=3Clk
 
-### 有意者请通过以下方式联系
+### 有意者通过以下方式联系
 
 微信：OTT996 
 
