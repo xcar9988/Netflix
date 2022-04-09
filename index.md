@@ -28,7 +28,7 @@
 
 ### 有意者通过以下方式联系
 
-微信：OTT996 <img src="https://github.com/zj168/nf/blob/gh-pages/IMG/wx.jpg?raw=true" alt="wx" style="zoom:25%;" />
+微信：OTT996 <img src="/IMG/wx.jpg?raw=true" alt="wx" style="zoom:25%;" />
 
-电报：@K5168<img src="https://github.com/zj168/nf/blob/gh-pages/IMG/tg.jpg?raw=true" alt="wx" style="zoom:17%;" />
+电报：@K5168 <img src="/IMG/tg.jpg?raw=true" alt="wx" style="zoom:17%;" />
 
