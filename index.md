@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Netflix 共享信息
 
-You can use the [editor on GitHub](https://github.com/zzqq9696/nf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本人自用 Netflix 奈飞高级车，4K超高清，信用卡自动续费，支持香港等全球节点，独享车位不超售，可设密码。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+年  付：132元（11元/月）
+半年付：72元（12元/月）
+季度付：39元（13元/月）
+月  付：15元
 
-### Markdown
+如遇奈飞收费政策调整，可选择根据使用时间按比例退款或者补差。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
