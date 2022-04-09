@@ -22,12 +22,16 @@
 
 ### 机场推荐
 
-邀请链接：https://muniucloud.net/auth/register?code=oEZd
+牧牛云邀请链接：https://muniucloud.net/auth/register?code=oEZd
 
-邀请链接：https://mxwljsq.com/auth/register?code=3Clk
+猫熊网邀请链接：https://mxwljsq.com/auth/register?code=3Clk
 
 ### 有意者通过以下方式联系
 
 微信：OTT996 
 
+<img src="D:\朱靖\Desktop\微信小号.jpg" alt="微信小号" style="zoom: 20%;" />
+
 电报：@K5168
+
+<img src="D:\朱靖\Desktop\电报.jpg" alt="电报" style="zoom:15%;" />
