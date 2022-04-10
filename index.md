@@ -27,8 +27,9 @@
 猫熊网邀请链接：https://mxwljsq.com/auth/register?code=3Clk
 
 ### 有意者通过以下方式联系
-
+<center>
 <img src="/IMG/wx.jpg?raw=true" alt="wx" width="150" />
-<center>微信：OTT996</center>
+微信：OTT996
+</center>
 <img src="/IMG/tg.jpg?raw=true" alt="tg" width="150" />
 <center>电报：@K5168</center>
