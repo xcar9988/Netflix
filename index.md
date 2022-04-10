@@ -28,8 +28,4 @@
 
 ### 有意者通过以下方式联系
 
-<img src="/IMG/wx.jpg?raw=true" alt="wx" width="200" position='left:300px'/>
-微信：OTT996 
-
-<img src="/IMG/tg.jpg?raw=true" alt="wx" width="200" position='right:300px'/>
-电报：@K5168
+![微信：OTT996]<img src="/IMG/wx.jpg?raw=true" alt="wx" width="200" position='left:300px'/>![电报：@K5168]<img src="/IMG/tg.jpg?raw=true" alt="tg" width="200" position='right:300px'/>
