@@ -28,4 +28,5 @@
 
 ### 有意者通过以下方式联系
 
-<img src="/IMG/wx.jpg?raw=true" alt="wx" width="100" /> <img src="/IMG/tg.jpg?raw=true" alt="tg" width="100" />
+<img src="/IMG/wx.jpg?raw=true" alt="wx" width="100" /> 
+<img src="/IMG/tg.jpg?raw=true" alt="tg" width="100" />
