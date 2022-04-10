@@ -30,5 +30,5 @@
 
 <center><img src="/IMG/wx.jpg?raw=true" alt="wx" width="150"/></center><center>微信：OTT996</center>
 
-<img src="/IMG/tg.jpg?raw=true" alt="tg" width="150" />
+<center><img src="/IMG/tg.jpg?raw=true" alt="tg" width="150" /></center>
 <center>电报：@K5168</center>
