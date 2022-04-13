@@ -20,9 +20,7 @@
 
 ### 机场推荐
 
-牧牛云邀请链接：https://muniucloud.net/auth/register?code=oEZd
-
-猫熊网邀请链接：https://mxwljsq.com/auth/register?code=3Clk
+邀请链接：https://mxwljsq.com/auth/register?code=3Clk
 
 ### 有意者通过以下方式联系
 
