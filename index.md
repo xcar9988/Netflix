@@ -20,7 +20,7 @@
 
 ### 机场推荐
 
-邀请链接：https://mxwljsq.com/auth/register?code=3Clk
+邀请链接：
 
 ### 有意者通过以下方式联系
 
