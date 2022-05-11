@@ -20,10 +20,6 @@
 
 浏览器打开Netflix.com，登录后点击右上角头像-账户-个人资料和家长控制-自己车位号最右侧，点击向下箭头-个人资料锁定右侧，点击更改-验证登录密码后设置4位数字个人PIN码。
 
-### 机场推荐
-
-邀请链接：
-
 ### 详情请添加以下任一方式交流
 
 <center><img src="/IMG/wx.jpg?raw=true" alt="wx" width="150"/></center><center>微信：OTT996</center>
