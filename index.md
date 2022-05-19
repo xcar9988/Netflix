@@ -24,8 +24,6 @@
 
 邀请链接：https://mxwljsq.com/auth/register?code=pMCT
 
-### 请添加以下任一联系方式交流
-
-<center><img src="/IMG/wx.jpg?raw=true" alt="wx" width="150"/></center><center>微信：OTT996</center>
+### 添加Telegram交流
 
 <center><img src="/IMG/tg.jpg?raw=true" alt="tg" width="150" /></center><center>电报：@K5168</center>
