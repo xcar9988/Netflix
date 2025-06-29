@@ -22,4 +22,4 @@
 
 ### 添加Telegram交流
 
-<center><img src="/IMG/tg.jpg?raw=true" alt="tg" width="150" /></center><center>电报：@FLY800</center>
+<center><img src="/IMG/tg.jpg?raw=true" alt="tg" width="150" /></center><center>电报：@FLY9696</center>
